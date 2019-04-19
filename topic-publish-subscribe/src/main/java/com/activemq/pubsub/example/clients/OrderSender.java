@@ -1,6 +1,6 @@
 package com.activemq.pubsub.example.clients;
 
-import static com.activemq.pubsub.example.config.SolaceMQConfig.ORDER_TOPIC;
+import static com.activemq.pubsub.example.common.OrderConstant.ORDER_TOPIC;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
